@@ -4,7 +4,7 @@ In the command,
 * jupyter notebook
 * run "Traffic_Light_Classifier.ipynb"
 
-<p align="left">
+<p align="center">
     <img src="./nd113.JPG" alt="main_image" /><br>
     <b>Certification of Intro to Self-Driving Cars Nanodegree Program</b><br>
 </p>
